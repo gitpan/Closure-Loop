@@ -7,5 +7,6 @@ README
 lib/Closure/Loop.pm
 t/00.load.t
 t/01.simple.t
+t/02.complex.t
 t/pod-coverage.t
 t/pod.t
