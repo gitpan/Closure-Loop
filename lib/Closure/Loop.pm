@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Carp;
 
-use version; our $VERSION = qv('0.0.2');
+use version; our $VERSION = qv('0.0.3');
 
 my @SIGS    = qw(last next redo);
 my @EXPORTS = qw(yield);
@@ -68,7 +68,7 @@ Closure::Loop - redo, last, next for closure based loops
 
 =head1 VERSION
 
-This document describes Closure::Loop version 0.0.2
+This document describes Closure::Loop version 0.0.3
 
 =head1 SYNOPSIS
 
